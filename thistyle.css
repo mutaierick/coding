@@ -1,0 +1,72 @@
+.body {
+    background: blue;
+}
+.container {
+    border: 0;
+    border-color: blue;
+    background-color: gray;
+    border-radius: 15px;
+    padding: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 350px;
+    height: 350px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.container1 {
+    border: 100px;
+    border-color: blue;
+    background-color: gray;
+    border-radius: 15px;
+    align-content: center;
+    padding: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 700px;
+    height: 700px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 475px;
+}
+.input {
+    background: #fff;
+    border: 0;
+    border-radius: 15px;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:#333;
+    margin-bottom: 15px;
+}
+.button {
+    background: green;
+    border: 0;
+    border-radius: 15px;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #333;
+    width: auto;
+}
+.image {
+    background: #f2f2f2;
+    border: 0;
+    border-radius: 40px;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+}

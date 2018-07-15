@@ -1,0 +1,65 @@
+.body{
+	background-image: url(images/fine.jpg);
+}
+
+.input {
+	border: 10px,;
+	border-radius: 15px;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: black;
+	background: white;
+	margin-bottom: 15px;
+}
+.button{
+	border: 0;
+	border-radius: 15px;
+	padding: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #333;
+	background: green;
+	width: auto;
+
+}
+.image{
+	border-radius: 100px;
+	padding: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	color: white;
+	background: violet;
+	width: 80px;
+	height: 80px;
+	margin-bottom: 15px;
+}
+.container{
+	border:30px;
+	border-color: black;
+	border-radius: 10px;
+	padding: 10px;
+	border-radius: 15px;
+	padding-right: 200px;
+	padding-left: 50px;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	background: lightblue;
+	margin-top: 60px;
+	margin-right: 50px;
+	margin-left: 300px;
+	margin-bottom: 10px;
+	width: 500px;
+	height: 450px;
+}
+.button1{
+	background-color: blue;
+	border: dotted;
+	border-radius: 10px;
+}

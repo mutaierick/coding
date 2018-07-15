@@ -1,0 +1,39 @@
+body{
+    background-image: url(images/futa.png);
+}
+#head{
+    background-color: blue;
+    color: bisque;
+    margin-bottom: 0;
+    border-bottom: #e8491d 4px solid;
+}
+#navbar{
+    background-color: rgb(54, 166, 241);
+    margin-top: 0;
+    padding-top: 0;
+}
+nav,li{
+    list-style-type: none;
+    padding-right: 100px;
+}
+#nav, nav,li, a{
+    padding-top: 5px !important;
+    padding-bottom: 15px!important;
+     height: 50px !important;
+}
+nav a{
+    color:whitesmoke;
+    font-weight: 500px;
+}
+nav a:hover{
+color: rgb(197, 167, 67);
+height: 4px;
+font-weight: bold;
+}
+.social{
+    
+    border-bottom: #e8491d 4px solid; 
+}
+.foot{
+    background-color: aqua;
+}
